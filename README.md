@@ -12,6 +12,7 @@ https://github.com/kudaken0/discord-embed-webhook.git
 2. config.yamlに必要事項を入力してください。(スマホでwebhookを作る場合は[こちら](https://note.com/nuyaki/n/nc2f167ca6c5f)の記事をご参照ください。)
 2. main.pyを実行(Run)してください。
 ## 使い方(開発環境がある人)
-1. ```git clone https://github.com/kudaken0/discord-embed-webhook.git```でインポートしてください。
+1. コマンドプロンプトで下記のコマンドを実行してください。(gitがない場合は[ダウンロード](https://git-scm.com)してください。)
+```git clone https://github.com/kudaken0/discord-embed-webhook.git```
 2. config.yamlに必要事項を入力してください。
 3. main.pyを実行してください。
