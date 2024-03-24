@@ -23,7 +23,7 @@ def send_embedded_message_via_webhook(embed):
 embed = {
     'title': config['title'],
     'description': config['description'],
-    'color': 0XFFFFFF
+    'color': int(config['color'], 0)
 }
 
 # Embeddedメッセージを送信

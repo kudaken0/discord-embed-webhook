@@ -6,5 +6,5 @@ title: ここに入力
 #埋め込みメッセージの内容(改行したいときは\nを書いてください。)
 #例 description: これはテストです
 description: ここに入力
-#色(こちらのサイトを参照し指定してください。 https://www.bcpos.jp/color/)
-#例: color: 0XFFFFFF
+#色(16進数のカラーコードで記入してください。 ※こちらのサイトを参照してください。 https://www.bcpos.jp/color/)#例: color: 0XFFFFFF
+color: ここに入力
