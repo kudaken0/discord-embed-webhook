@@ -19,12 +19,12 @@ def send_embedded_message_via_webhook(embed):
     else:
         print("正常にメッセージが送信されませんでした。stats code:", response.status_code)
 
-# コマンドの説明
+
 embed = {
     'title': config['title'],
     'description': config['description'],
     'color': int(config['color'], 0)
 }
 
-# Embeddedメッセージを送信
+
 send_embedded_message_via_webhook(embed)
