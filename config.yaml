@@ -1,0 +1,10 @@
+#Discord WebhookのURL
+#例 WebhookURL: https://discord.com/api/webhooks/1234/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+WebhookURL: ここに入力
+#例 title: テスト
+title: ここに入力
+#埋め込みメッセージの内容(改行したいときは\nを書いてください。)
+#例 description: これはテストです
+description: ここに入力
+#色(こちらのサイトを参照し指定してください。 https://www.bcpos.jp/color/)
+#例: color: 0XFFFFFF
