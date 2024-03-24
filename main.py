@@ -26,5 +26,5 @@ embed = {
     'color': int(config['color'], 0)
 }
 
-# Embeddedメッセージを送信
+
 send_embedded_message_via_webhook(embed)
